@@ -5,7 +5,7 @@
 	-  Head to my portfolio: <a href="https://pp-verse.me" target="_blank">**https://pp-verse.me**</a>
 	</a> -->
 	<a href="https://github.com/Shamema13">
-		<img src="https://img.shields.io/github/followers/Shamema13?label=Followers" alt="Pallavi-Pandey" />
+		<img src="https://img.shields.io/github/followers/Shamema13?label=Followers" alt="shamema13" />
 	</a>
 </p>
 <br/>
